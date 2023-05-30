@@ -8,7 +8,7 @@ import java.util.Properties;
  * Description:
  * 读取properties配置文件
  *
- * @author: Mr、哈喽沃德
+ * @author: CorgiCheul
  * @Date: 2023/5/9 14:23
  * Created with IntelliJ IDEA.
  * To change this template use File | Settings | File And Code Templates.
